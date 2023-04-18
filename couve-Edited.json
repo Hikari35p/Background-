@@ -45,9 +45,9 @@
   },
   "spec": 2,
   "background":{
-  	"blur":0
-  	"url":"https://raw.githubusercontent.com/Hikari35p/Background-/Theme/background.jpg"
-  	"alpha":0.9
-  	"color":"#252A3E"
+   "blur":0
+   "url":"https://raw.githubusercontent.com/Hikari35p/Background-/Theme/background.jpg"
+   "alpha":0.9
+   "color":"#252A3E"
   }	 	
 }
