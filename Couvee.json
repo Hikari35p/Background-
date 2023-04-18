@@ -47,7 +47,7 @@
     "background": {
       "blur": 0,
       "url": "https://raw.githubusercontent.com/Hikari35p/Background-/main/background.jpg",
-      "alpha": 0.9,
+      "alpha": 1.0,
       "color": "#252A3E"
   
     }
