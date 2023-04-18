@@ -1,5 +1,5 @@
 {
-  "name": "Couve",
+  "name": "Couve-Edited",
   "description": "A new look to discord",
   "authors": [
     {
@@ -46,7 +46,7 @@
     "spec": 2,
     "background": {
       "blur": 0,
-      "url": "https://raw.githubusercontent.com/Hikari35p/Background-/main/background.jpg",
+      "url": "https://raw.githubusercontent.com/Hikari35p/Background-/main/background1.jpg",
       "alpha": 1.0,
       "color": "#252A3E"
   
