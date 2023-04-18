@@ -42,6 +42,13 @@
     "BRAND_360": "#419E85",
     "BRAND_500": "#419E85",
     "BRAND_560": "#265C4D"
-  },
-  "spec": 2
+   },
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/Hikari35p/Background-/main/background.jpg",
+      "alpha": 0.9,
+      "color": "#252A3E"
+  
+    }
 }
